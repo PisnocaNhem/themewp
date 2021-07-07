@@ -90,4 +90,4 @@
 					</section>
 
     <?php wp_body_open(); ?>
-    <?php the_post_thumbnail(); ?>
+    
